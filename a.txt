@@ -1,2 +1,4 @@
 This is file A.
 modified this file in local repository.
+----------------------------------------
+modified this file in branch1
