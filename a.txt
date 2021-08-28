@@ -1,3 +1,8 @@
 This is file A.
 modified this file in local repository.
+<<<<<<< HEAD
 modified this file in master branch.
+=======
+----------------------------------------
+modified this file in branch1
+>>>>>>> branch1
