@@ -1,2 +1,0 @@
-This is file B.
-this file is edited in local repository.
